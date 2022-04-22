@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Geekbrains Lesson 1</string>
+    <string name="nickname">Name</string>
+    <string name="firstname">First Name</string>
+    <string name="check">Check</string>
+    <string name="wifi">Wi-FI</string>
+    <string name="accept">Accept</string>
+    <string name="run">Welcome</string>
+    <string name="cookies">cookies</string>
+    <string name="personal_i">Personal Information</string>
+    <string name="personal_name">Name</string>
+    <string name="personal_phone">phone</string>
+    <string name="personal_number">number</string>
+    <string name="personal_password">password</string>
+    <string name="personal_mail">Email</string>
+
+
+
+</resources>
